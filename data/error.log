@@ -1,0 +1,188 @@
+2025-01-26 23:35:06,307 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 14.values    full_name  ...                                research_experience
+0  B. Sruthi  ...  [{'title': 'Autonomic Computing in Medical Inf...
+
+[1 rows x 19 columns]
+2025-01-26 23:35:39,810 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 17.values             full_name  ...                                research_experience
+0  CHIRAG SHARAD HEDA  ...  [Represented the IEEE Bangalore section at the...
+
+[1 rows x 19 columns]
+2025-01-26 23:36:15,349 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 20.values                   full_name  ...                                research_experience
+0  Sankalp Pramod Dhanvijay  ...  [Text Editor: Developing an editor for writing...
+
+[1 rows x 19 columns]
+2025-01-26 23:38:19,864 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 30.values          full_name  ...                                research_experience
+0  KUMAR BHARATH P  ...  [{'period': 'May-July 2009', 'advisor': 'Dr. C...
+
+[1 rows x 19 columns]
+2025-01-26 23:40:41,786 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 40.values          full_name  ...                                research_experience
+0  Parul Chaurasia  ...  [{'title': 'Summer project under Prof.Tim Post...
+
+[1 rows x 19 columns]
+2025-01-26 23:41:16,705 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 43.values                full_name  ...                                research_experience
+0  RAJAN HARILAL BAPODRA  ...  [2 in high school involving concepts of C++, 1...
+
+[1 rows x 19 columns]
+2025-01-26 23:41:28,071 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 44.values           full_name  ...                                research_experience
+0  RALLAPALLI SARAT  ...  [Worked on the study and implementation of 'Pa...
+
+[1 rows x 19 columns]
+2025-01-26 23:45:05,941 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 58.values       full name  ...                                research experience
+0  SRI BALAJI G  ...  Worked under professor S.N Omkar during May-Ju...
+
+[1 rows x 19 columns]
+2025-01-26 23:45:47,033 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 60.values   full_name  ...                                research_experience
+0   SURAJ S  ...  [{'project': 'Prototype system for anatomical ...
+
+[1 rows x 19 columns]
+2025-01-26 23:46:14,586 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 62.values        full_name  ...                                research_experience
+0  Vikram Baghel  ...  [Implementation of TSP by Genetic Algorithm, A...
+
+[1 rows x 19 columns]
+2025-01-26 23:46:34,567 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 63.values       full_name  ...                                research_experience
+0  VINAY BHATIA  ...  [SUMMER TRAINING IN C-DOT, DELHI ON THE TOPIC ...
+
+[1 rows x 19 columns]
+2025-01-26 23:46:59,036 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 65.values         full_name  ...                                research_experience
+0  Vivek M Rathod  ...  [06/09-present: Mlabwrap- A high level Python-...
+
+[1 rows x 19 columns]
+2025-01-26 23:49:40,909 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 78.values      full_name  ...                        extra_curricular_activities
+0  Anmol Singh  ...  [Executive Member of INDIAN SOCIETY FOR TECHNI...
+
+[1 rows x 19 columns]
+2025-01-26 23:51:01,612 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 85.values              full_name  ...                                research_experience
+0  CINZA SUSAN ABRAHAM  ...  [{'company': 'Lenovo, India', 'duration': '1st...
+
+[1 rows x 19 columns]
+2025-01-26 23:52:13,095 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 91.values              full_name  ...                                research_experience
+0  HARSH TARANG YADAVA  ...  [Tested the stability of tensegrity structures...
+
+[1 rows x 19 columns]
+2025-01-26 23:53:24,046 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 97.values     full_name  ...                                research_experience
+0  MADHU M.V.  ...  [Final year project: 'Efficient Clustering and...
+
+[1 rows x 19 columns]
+2025-01-26 23:54:38,180 - ERROR - An error occurred: Length mismatch: Expected axis has 20 elements, new values have 18 elements. Skipping 103.values      full_name  ...                        extra_curricular_activities
+0  Nemngaihlun  ...  [Treasurer of Lights, Sounds and Dramatic Club...
+
+[1 rows x 20 columns]
+2025-01-26 23:54:50,915 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 104.values        full_name  ...                                research_experience
+0  PRASHANTH B N  ...  [Designed and implemented Computer Graphics Pa...
+
+[1 rows x 19 columns]
+2025-01-26 23:55:27,959 - ERROR - An error occurred: Length mismatch: Expected axis has 20 elements, new values have 18 elements. Skipping 107.values                full_name  ...                        extra_curricular_activities
+0  Preetam Yogesh Anchan  ...  [Piano performances and certifications, Brown ...
+
+[1 rows x 20 columns]
+2025-01-26 23:57:53,065 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 117.values        full_name  ...                                research_experience
+0  SHREYAS TONSE  ...  [Gave a 'Lightning Talk' at the Adobe Develope...
+
+[1 rows x 19 columns]
+2025-01-26 23:58:19,967 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 119.values       full name  ...                        extra curricular activities
+0  SHWETA ANAND  ...  [Executive member of Computer Society of India...
+
+[1 rows x 19 columns]
+2025-01-26 23:58:58,491 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 122.values          full_name  ...                                research_experience
+0  Sumit Choudhary  ...  [{'project': 'Mini Project in Computer Graphic...
+
+[1 rows x 19 columns]
+2025-01-26 23:59:58,590 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 127.values    full name  ...                        extra curricular activities
+0  V V Divya  ...  [Member of Artist Forum, Member of SPICMACAY, ...
+
+[1 rows x 19 columns]
+2025-01-27 00:00:23,079 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 129.values       full_name  ...                                research_experience
+0  VIDIT JINDAL  ...  [Optical character recognition under Dr. T.K.S...
+
+[1 rows x 19 columns]
+2025-01-27 00:00:52,751 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 132.values       full name  ...                                research experience
+0  DEEPIKA BARA  ...  [Final year major project on Network Monitorin...
+
+[1 rows x 19 columns]
+2025-01-27 10:26:46,495 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 13.values         full_name                 email_id gender  ...  soft_skills sports research_experience
+0  ASHISH G. BHAT  ashish.g.bhat@gmail.com   MALE  ...                                        
+
+[1 rows x 19 columns]
+2025-01-27 10:27:08,013 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 15.values           full_name  ...                                research_experience
+0  BHARATH PRASANNA  ...  [Minimization of the Leeching Problem in BitTo...
+
+[1 rows x 19 columns]
+2025-01-27 10:27:40,883 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 18.values              full name  ...                        extra curricular activities
+0  DARRYL NIKHIL LEWIS  ...  [Enthusiastic quizzer, Won the Rural IT Quiz h...
+
+[1 rows x 19 columns]
+2025-01-27 10:28:24,889 - ERROR - An error occurred: Length mismatch: Expected axis has 21 elements, new values have 18 elements. Skipping 21.values               full name  ...                        employment details_projects
+0  GOVIND KRISHNA RAGHU  ...  [{'title': 'IMAGE PROCESSING SOFTWARE', 'descr...
+
+[1 rows x 21 columns]
+2025-01-27 10:29:52,045 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 29.values    full_name  ...                                research_experience
+0  KARTHIK N  ...  [Designed database system for 'Hospital Admini...
+
+[1 rows x 19 columns]
+2025-01-27 10:31:11,004 - ERROR - An error occurred: Length mismatch: Expected axis has 34 elements, new values have 18 elements. Skipping 34.values       full name  ... technical skills_Neural Network Project_Description
+0  MOHIT MITTAL  ...  It’s about Extraction Of Compact Rules from Tr... 
+
+[1 rows x 34 columns]
+2025-01-27 10:31:46,432 - ERROR - An error occurred: Length mismatch: Expected axis has 22 elements, new values have 18 elements. Skipping 36.values   full name  ... technical skills_Content Management System
+0  N Naveen  ...                                   [Joomla]
+
+[1 rows x 22 columns]
+2025-01-27 10:33:30,370 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 44.values           full_name  ...                                research_experience
+0  RALLAPALLI SARAT  ...  [Worked on the study and implementation of 'Pa...
+
+[1 rows x 19 columns]
+2025-01-27 10:35:53,914 - ERROR - An error occurred: Length mismatch: Expected axis has 20 elements, new values have 18 elements. Skipping 52.values      full_name  ...                                             awards
+0  Sambit Rath  ...  [Received Chief Minister's Merit Award for sec...
+
+[1 rows x 20 columns]
+2025-01-27 10:36:15,540 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 54.values                 full name  ...                           co-curricular activities
+0  SHARON GRACIAN MIRANDA  ...  [Participated in numerous quizzes during 11th ...
+
+[1 rows x 19 columns]
+2025-01-27 10:38:07,389 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 61.values   full_name          email_id  ... sports                                research_experience
+0   SYAMA R  syamar@gmail.com  ...     []  [{'title': 'AMBI GRAPH: MODELING AMBIENT INTEL...
+
+[1 rows x 19 columns]
+2025-01-27 10:38:17,491 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 62.values        full_name  ...                                research_experience
+0  Vikram Baghel  ...  [Implementation of TSP by Genetic Algorithm, A...
+
+[1 rows x 19 columns]
+2025-01-27 10:40:07,254 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 71.values         full_name  ...                                research_experience
+0  ABHIJEET KUMAR  ...  [Developed an actively readable scheme for tec...
+
+[1 rows x 19 columns]
+2025-01-27 10:40:55,507 - ERROR - An error occurred: Length mismatch: Expected axis has 20 elements, new values have 18 elements. Skipping 74.values              full name  ...                                  academic projects
+0  AJAY KUMAR CHINTALA  ...  [Created an animation package using C language...
+
+[1 rows x 20 columns]
+2025-01-27 10:42:54,304 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 83.values      full_name  ...                                research_experience
+0  ASHISH JAIN  ...  [{'project': 'Computer Graphics', 'description...
+
+[1 rows x 19 columns]
+2025-01-27 10:47:06,736 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 98.values         full_name  ... research_experience
+0  MANJUNATHA S V  ...                  []
+
+[1 rows x 19 columns]
+2025-01-27 10:48:26,162 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 103.values      full name  ...                        extra curricular activities
+0  Nemngaihlun  ...  [Treasurer of Lights, Sounds and Dramatic Club...
+
+[1 rows x 19 columns]
+2025-01-27 10:49:08,435 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 107.values                full name  ...                        extra curricular activities
+0  Preetam Yogesh Anchan  ...  [Musically trained in Piano, Brown Belt (4th K...
+
+[1 rows x 19 columns]
+2025-01-27 10:49:54,229 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 110.values        full_name  ...                                research_experience
+0  S RAVISHANKAR  ...  [Worked on NVidia's CUDA for fast computing us...
+
+[1 rows x 19 columns]
+2025-01-27 10:52:07,230 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 119.values       full_name                   email_id  ... sports  research_experience
+0  SHWETA ANAND  shweta.anand.88@gmail.com  ...     []                   []
+
+[1 rows x 19 columns]
+2025-01-27 10:54:53,241 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 129.values       full_name  ...                                research_experience
+0  Vidit Jindal  ...  [Worked under Prof. Tim Poston, National Insti...
+
+[1 rows x 19 columns]
+2025-01-27 10:55:34,389 - ERROR - An error occurred: Length mismatch: Expected axis has 19 elements, new values have 18 elements. Skipping 132.values       full_name  ...                                research_experience
+0  DEEPIKA BARA  ...  [Final year major project on Network Monitorin...
+
+[1 rows x 19 columns]
